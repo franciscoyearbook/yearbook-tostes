@@ -71,7 +71,6 @@ class DATABASE_CONFIG {
 		'password' => 'idu&7@sSehaZzZ',
 		'database' => 'yearbookfrancisco',
 		'prefix' => '',
-		'encoding' => 'utf8',
 		'port' => 1433
 	);
 }
