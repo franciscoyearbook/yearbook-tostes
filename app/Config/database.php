@@ -64,7 +64,7 @@
  */
 class DATABASE_CONFIG {
 	public $default = array(
-		'datasource' => 'Database/Mysql',
+		'datasource' => 'Database/Sqlserver',
 		'persistent' => false,
 		'host' => 'yearbookfrancisco.database.windows.net',
 		'login' => 'yearbookfrancisco',
