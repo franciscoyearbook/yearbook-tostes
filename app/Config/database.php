@@ -72,5 +72,6 @@ class DATABASE_CONFIG {
 		'database' => 'yearbookfrancisco',
 		'prefix' => '',
 		'encoding' => 'utf8',
+		'port' => 1433
 	);
 }
