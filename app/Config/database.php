@@ -64,13 +64,12 @@
  */
 class DATABASE_CONFIG {
 	public $default = array(
-		'datasource' => 'Database/Sqlserver',
+		'datasource' => 'Database/Mysql',
 		'persistent' => false,
-		'host' => 'yearbookfrancisco.database.windows.net',
-		'login' => 'yearbookfrancisco',
-		'password' => 'idu&7@sSehaZzZ',
-		'database' => 'yearbookfrancisco',
-		'prefix' => '',
-		'port' => 1433
+		'host' => 'us-cdbr-azure-west-b.cleardb.com',
+		'login' => 'bfdb38c47f2899',
+		'password' => '3ba6a370',
+		'database' => 'yearbookmysql',
+		'prefix' => ''
 	);
 }
